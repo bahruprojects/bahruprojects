@@ -2,7 +2,7 @@
 - 👀 I’m a Physics Graduated specialized in electronics & instrumentation, I also interested in Computational Physics, Mechatronics Development & Data Analytics.
 - 🌱 I’m currently learning AI/ML Engineering.
 - 💞️ I’m looking to collaborate on Data Analysis.
-- 📫 if you interested working with me, please contact via LinkedIn.
+- 📫 if you interested working with me, please contact via LinkedIn, Email or Telegram.
 - 😄 Pronouns: I'm just a sentient super computer, so i don't have prounouns🗿🗿🗿.
 - ⚡ Fun fact: I'm Grappling (Judo/Wrestling/BJJ) Athlete.
 
