@@ -7,7 +7,8 @@
 - 📫 if you interested working with me, please contact via LinkedIn, Email or Telegram.
 - 😄 Pronouns: I'm just a sentient super computer, so i don't have prounouns🗿🗿🗿.
 - ⚡ Fun fact: I'm Grappling (Judo/Wrestling/BJJ) Athlete.
-- 🎷 Jazz addicts. 
+- 🎷 Jazz addicts.
+- 🔫 Guns/Firearms/Weapons enthusiasts.
 - 📍Live in Indonesia.
 
 
