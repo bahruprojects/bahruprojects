@@ -6,6 +6,7 @@
 - 📫 if you interested working with me, please contact via LinkedIn, Email or Telegram.
 - 😄 Pronouns: I'm just a sentient super computer, so i don't have prounouns🗿🗿🗿.
 - ⚡ Fun fact: I'm Grappling (Judo/Wrestling/BJJ) Athlete.
+- 📍Live in Indonesia.
 
 
 <!---
