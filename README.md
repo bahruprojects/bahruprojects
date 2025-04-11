@@ -11,7 +11,7 @@
 - 🔫 Guns/Firearms/Weapons enthusiasts.
 - 📍Live in Indonesia.
 
-
+### This is my second's Github account. Previously, my first account was banned from Github.
 <!---
 bahruprojects/bahruprojects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
