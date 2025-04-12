@@ -12,6 +12,8 @@
 - 📍Live in Indonesia.
 
 ### This is my second's Github account. Previously, my first account was banned from Github.
+![image](https://github.com/user-attachments/assets/f2b4decf-9a3f-4004-b560-e92968c2c23a)
+
 <!---
 bahruprojects/bahruprojects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
