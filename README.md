@@ -12,7 +12,8 @@
 - 📍Live in Indonesia.
 
 ### This is my second's Github account. Previously, my first account was deleted from Github for security reasons.
-![image](https://github.com/user-attachments/assets/a19e0af1-8247-4ed6-935e-1ce3d844cd13)
+![image](https://github.com/user-attachments/assets/fc4401d3-1f60-46ee-8429-c5ca676c7e1c)
+
 
 <!---
 bahruprojects/bahruprojects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
