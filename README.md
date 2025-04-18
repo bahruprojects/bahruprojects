@@ -11,7 +11,7 @@
 - 📍 Live in Indonesia.
 
 ### This is my second's Github account. Previously, my first account was deleted from Github for security reasons.
-[![image](https://github.com/user-attachments/assets/fc4401d3-1f60-46ee-8429-c5ca676c7e1c)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![image](https://github.com/user-attachments/assets/fc4401d3-1f60-46ee-8429-c5ca676c7e1c)](https://t.me/Cosmic_Alvin)
 
 
 <!---
