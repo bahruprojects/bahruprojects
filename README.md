@@ -14,7 +14,7 @@
 [![image](https://github.com/user-attachments/assets/fc4401d3-1f60-46ee-8429-c5ca676c7e1c)](https://t.me/Cosmic_Alvin)
 
 # Tools:
-<img src="[PostgreSQL](https://github.com/user-attachments/assets/cfe79a72-26f2-4d4a-9d15-9d867276b822)" width="300" height="200">
+<img src="(https://github.com/user-attachments/assets/cfe79a72-26f2-4d4a-9d15-9d867276b822)" width="300" height="200">
 ![Jupyter Notebook](https://github.com/user-attachments/assets/df79a60d-47ce-4be8-9615-8241725e6abb)
 ![Google Colaboratory](https://github.com/user-attachments/assets/8601af79-ccac-438b-9742-acdefa0e3f4e)
 
