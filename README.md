@@ -1,4 +1,4 @@
-# [About Me!⚛️🚀🔭𝞹💻🤖🦾⚗️](https://www.instagram.com/Tactical_Scientist/)
+# [About Me!⚛️🚀🔭𝞹👨‍💻💻🤖🦾⚗️](https://www.instagram.com/Tactical_Scientist/)
 - 🧪 Hi, I’m Umar, a Data Intelligence Developer that working at Chemicals Manufacture Industry☺️.
 - 📈 I’m a Physics Graduated specialized in electronics & instrumentation, I also interested in Computational Physics, Mechatronics Development & Data Analytics.
 - 🧠 I’m currently learning AI/ML Engineering, Cybersecurity, Archeology, Anthropology, Neuroscience & Astrophysics.
