@@ -1,4 +1,4 @@
-**I'm nobody, just average query monkey & script kiddies with a immeasurable obsession, hatred and revenge against the world.**
+**I'm nobody, just an average query monkey & script kiddies with a immeasurable obsession, hatred and revenge against the world (trust me).**
 ### This is my second's Github account. Previously, my first account was deleted from Github for security reasons.
 [![image](https://github.com/user-attachments/assets/fc4401d3-1f60-46ee-8429-c5ca676c7e1c)](https://t.me/Cosmic_Alvin)
 
