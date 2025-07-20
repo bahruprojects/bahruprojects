@@ -9,8 +9,7 @@
 - 🎷 Jazz addicts.
 - 🔫 Guns/Firearms/Weapons enthusiasts.
 - 📍 Live in Indonesia.
-- 
-**[Let's Talk Business!](https://script.google.com/macros/s/AKfycbwjwfoeTnGEm2j66BeGftcUzP3D8izbBWbulQqR6wAy6qzydZBjyZowhzBTL8YOOl6G/exec)**
+-  **[Let's Talk Business!](https://script.google.com/macros/s/AKfycbwjwfoeTnGEm2j66BeGftcUzP3D8izbBWbulQqR6wAy6qzydZBjyZowhzBTL8YOOl6G/exec)**
 ### This is my second's Github account. Previously, my first account was deleted from Github for security reasons.
 ![image](https://github.com/user-attachments/assets/fc4401d3-1f60-46ee-8429-c5ca676c7e1c)
 
