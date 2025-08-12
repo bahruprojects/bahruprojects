@@ -1,5 +1,5 @@
-**I'm nobody, just an average query monkey & script kiddie with an immeasurable obsession, hatred and revenge against the world (trust me). Physics major makes me poor, broke, unemployed & mentally ill. Never trust science, trust money.**
--  **[Let's Talk Business!](https://script.google.com/macros/s/AKfycbwjwfoeTnGEm2j66BeGftcUzP3D8izbBWbulQqR6wAy6qzydZBjyZowhzBTL8YOOl6G/exec)**
+**I'm nobody, just failed astrophysicist who become an average query monkey & script kiddie with an immeasurable obsession, hatred and revenge against the world (trust me). Physics major makes me poor, broke, unemployed & mentally ill. Never trust science, trust money.**
+-  **[Let's Talk Business! Shall We?](https://script.google.com/macros/s/AKfycbwjwfoeTnGEm2j66BeGftcUzP3D8izbBWbulQqR6wAy6qzydZBjyZowhzBTL8YOOl6G/exec)**
 
 <p align="left">
 </p>
@@ -19,9 +19,6 @@
 
 
 
-<!---
-bahruprojects/bahruprojects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
 
