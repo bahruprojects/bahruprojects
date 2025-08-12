@@ -1,13 +1,6 @@
 **I'm nobody, just an average query monkey & script kiddie with an immeasurable obsession, hatred and revenge against the world (trust me). Physics major makes me poor, broke, unemployed & mentally ill. Never trust science, trust money.**
 -  **[Let's Talk Business!](https://script.google.com/macros/s/AKfycbwjwfoeTnGEm2j66BeGftcUzP3D8izbBWbulQqR6wAy6qzydZBjyZowhzBTL8YOOl6G/exec)**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bahruprojects&label=Profile%20views&color=0e75b6&style=flat" alt="bahruprojects" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahruprojects" alt="bahruprojects" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
