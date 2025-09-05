@@ -1,5 +1,5 @@
 **I'm nobody, just failed astrophysicist who become an average query monkey & script kiddie with an immeasurable sheer obsession, autism, hatred, and revenge against the world (trust me). Physics major makes me poor, broke, unemployed & mentally ill. Never trust science, trust money.**
--  **[Let's Talk Business! Shall We?](https://script.google.com/macros/s/AKfycbyCBKLbNPP_MYqvboPZ6PZWg5KO2ji_9oR5z6rpVQpiQc7tq8EfgtdPQPIaMh1ej9rr/exec)**
+-  **[Let's Talk Business! Shall We?](https://business-with-tactical-scientist.netlify.app/)**
 
 <p align="left">
 </p>
