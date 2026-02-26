@@ -6,8 +6,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-## 🛠️ Languages and Tools
-
 ### 🚀 Programming & Scripting
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -74,10 +72,6 @@
 
 
 ### This is my second's Github account. Previously, my first account was deleted from Github for security reasons.
-!
-[image](https://github.com/user-attachments/assets/fc4401d3-1f60-46ee-8429-c5ca676c7e1c)
-
-
-</p>
+![image](https://github.com/user-attachments/assets/fc4401d3-1f60-46ee-8429-c5ca676c7e1c)
 
 
