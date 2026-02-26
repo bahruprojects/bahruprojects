@@ -6,8 +6,83 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 🚀 Languages and Tools
 
+### 👨‍💻 Programming & Scripting
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![C](https://img.shields.io/badge/-C-000?&logo=c)
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
+![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=powershell)
+![VBA](https://img.shields.io/badge/-VBA-000?&logo=microsoftoffice)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
+
+---
+
+### 🌐 Web & Markup
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+
+---
+
+### ☁️ Cloud & Platforms
+![Google Cloud](https://img.shields.io/badge/-GCP-000?&logo=googlecloud)
+![Google App Sheet](https://img.shields.io/badge/-AppSheet-000?&logo=google)
+![Google Apps Script](https://img.shields.io/badge/-AppsScript-000?&logo=google)
+![SAP](https://img.shields.io/badge/-SAP-000?&logo=sap)
+![Odoo](https://img.shields.io/badge/-Odoo-000?&logo=odoo)
+![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=oracle)
+
+---
+
+### 📊 Data Science & Machine Learning
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=plotly)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=python)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-000?&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch)
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
+![NLP](https://img.shields.io/badge/-NLP-000?&logo=python)
+
+---
+
+### ⚙️ Data Engineering
+![Apache Airflow](https://img.shields.io/badge/-Airflow-000?&logo=apacheairflow)
+![Apache Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)
+![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=apachehadoop)
+![Apache Spark](https://img.shields.io/badge/-Spark-000?&logo=apachespark)
+
+---
+
+### 📓 Data Tools
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
+![Power BI](https://img.shields.io/badge/-PowerBI-000?&logo=powerbi)
+![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=tableau)
+![Looker Studio](https://img.shields.io/badge/-LookerStudio-000?&logo=googleanalytics)
+
+---
+
+### 🔬 Engineering & Hardware
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
+![MATLAB](https://img.shields.io/badge/-MATLAB-000?&logo=mathworks)
+
+---
+
+### 🛡️ Cybersecurity
+![Kali Linux](https://img.shields.io/badge/-KaliLinux-000?&logo=kalilinux)
+![Metasploit](https://img.shields.io/badge/-Metasploit-000?&logo=metasploit)
+![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=wireshark)
+![Burp Suite](https://img.shields.io/badge/-BurpSuite-000?&logo=burpsuite)
+![Nessus](https://img.shields.io/badge/-Nessus-000?&logo=tenable)
+![Wazuh](https://img.shields.io/badge/-Wazuh-000?&logo=wazuh)
+
+---
+
+### 🎨 Design
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 
 ### This is my second's Github account. Previously, my first account was deleted from Github for security reasons.
 ![image](https://github.com/user-attachments/assets/fc4401d3-1f60-46ee-8429-c5ca676c7e1c)
