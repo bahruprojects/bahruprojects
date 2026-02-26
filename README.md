@@ -5,7 +5,8 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools: </h3>
+
 ### 🚀 Programming & Scripting
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
