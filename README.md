@@ -72,12 +72,12 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-</p>
+
 ### This is my second's Github account. Previously, my first account was deleted from Github for security reasons.
-![image](https://github.com/user-attachments/assets/fc4401d3-1f60-46ee-8429-c5ca676c7e1c)
+!
+[image](https://github.com/user-attachments/assets/fc4401d3-1f60-46ee-8429-c5ca676c7e1c)
 
 
-
-
+</p>
 
 
