@@ -6,50 +6,76 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-## 🚀 Languages and Tools
+## Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![C](https://img.shields.io/badge/-C-000?&logo=c)
-![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
-![PowerShell](https://img.shields.io/badge/-PowerShell-000?&logo=powershell)
-![VBA](https://img.shields.io/badge/-VBA-000?&logo=microsoftoffice)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
-![Google Cloud](https://img.shields.io/badge/-GCP-000?&logo=googlecloud)
-![Google App Sheet](https://img.shields.io/badge/-AppSheet-000?&logo=google)
-![Google Apps Script](https://img.shields.io/badge/-AppsScript-000?&logo=google)
-![SAP](https://img.shields.io/badge/-SAP-000?&logo=sap)
-![Odoo](https://img.shields.io/badge/-Odoo-000?&logo=odoo)
-![Oracle](https://img.shields.io/badge/-Oracle-000?&logo=oracle)
-![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=plotly)
-![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=python)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-000?&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch)
-![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
-![NLP](https://img.shields.io/badge/-NLP-000?&logo=python)
-![Apache Airflow](https://img.shields.io/badge/-Airflow-000?&logo=apacheairflow)
-![Apache Kafka](https://img.shields.io/badge/-Kafka-000?&logo=apachekafka)
-![Hadoop](https://img.shields.io/badge/-Hadoop-000?&logo=apachehadoop)
-![Apache Spark](https://img.shields.io/badge/-Spark-000?&logo=apachespark)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
-![Power BI](https://img.shields.io/badge/-PowerBI-000?&logo=powerbi)
-![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=tableau)
-![Looker Studio](https://img.shields.io/badge/-LookerStudio-000?&logo=googleanalytics)
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
-![MATLAB](https://img.shields.io/badge/-MATLAB-000?&logo=mathworks)
-![Kali Linux](https://img.shields.io/badge/-KaliLinux-000?&logo=kalilinux)
-![Metasploit](https://img.shields.io/badge/-Metasploit-000?&logo=metasploit)
-![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=wireshark)
-![Burp Suite](https://img.shields.io/badge/-BurpSuite-000?&logo=burpsuite)
-![Nessus](https://img.shields.io/badge/-Nessus-000?&logo=tenable)
-![Wazuh](https://img.shields.io/badge/-Wazuh-000?&logo=wazuh)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+### Programming & Scripting
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-53C1DE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA-277148?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+### Data Science & AI Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+### Data Engineering & Big Data
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### Cybersecurity & Networking
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-FF4400?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nessus-002244?style=for-the-badge&logo=tenable&logoColor=white" />
+</p>
+
+### BI, ERP & Design
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+## GitHub Stats
+
+> **Note:** Ganti `USERNAME_ANDA` dengan username GitHub asli Anda agar statistik muncul.
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bahruprojects&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahruprojects&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bahruprojects&theme=tokyonight&hide_border=true" />
+</p>
 
 ### This is my second's Github account. Previously, my first account was deleted from Github for security reasons.
 ![image](https://github.com/user-attachments/assets/fc4401d3-1f60-46ee-8429-c5ca676c7e1c)
