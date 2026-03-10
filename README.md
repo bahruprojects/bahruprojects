@@ -1,6 +1,7 @@
 
 **I'm nobody, just failed astrophysicist who become an average query monkey & script kiddie with an immeasurable sheer obsession, autism, hatred, and revenge against the world (trust me). Physics major makes me poor, broke, unemployed & mentally ill. Never trust science, trust money.**
--  **[Let's Talk Business! Shall We?](https://business-with-tactical-scientist.netlify.app/)**
+-  **[Let's Talk Business! Shall We?](https://business-with-combat-laboratory.netlify.app/)**
+-  **[See More Of My Profile!](https://profil-umar.netlify.app/)**
 
 <p align="left">
 </p>
